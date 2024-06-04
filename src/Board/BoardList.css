@@ -1,0 +1,12 @@
+.list_div {
+  width: 80%;
+  height: 800px;
+  background: white;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}

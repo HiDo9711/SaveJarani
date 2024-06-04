@@ -1,0 +1,100 @@
+input {
+  display: flex;
+  height: 30px;
+  width: 95%;
+  margin-top: 10px;
+}
+
+textarea {
+  display: flex;
+  height: 400px;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.BoardList {
+  font-size: 20px;
+  height: 45px;
+  line-height: 45px;
+  border-top: 1px solid #767676;
+  background: #eee;
+  width: 95%;
+}
+
+.BoardList1 {
+  border-bottom: 1px solid #767676;
+  width: 95%;
+  height: 35px;
+  line-height: 35px;
+}
+
+.BoardList1 p {
+  padding-left: 12px;
+}
+
+.BoardList2 {
+  width: 95%;
+  height: 500px;
+}
+
+.BoardList2 p {
+  padding-left: 12px;
+  padding-top: 12px;
+}
+
+.BoardList p {
+  padding-left: 12px;
+}
+
+.board_title2 {
+  width: 95%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.test {
+  position: absolute;
+  border: 1px solid black;
+  width: 18%;
+  height: 530px;
+  top: 13.4%;
+  left: 6px;
+}
+
+.bt_div {
+  width: 95%;
+  height: 50px;
+}
+
+.BT1 {
+  float: right;
+  margin: 10px 0;
+  padding: 5px;
+  background: white;
+  border: 1px solid #bbb;
+}
+
+.BT2 {
+  float: right;
+  margin: 10px 10px;
+  padding: 5px;
+  background: white;
+  border: 1px solid #bbb;
+}
+
+.BT3 {
+  float: left;
+  margin: 10px 0px;
+  padding: 5px;
+  background: white;
+  border: 1px solid #bbb;
+}
+
+.BoardInsert {
+  width: 80%;
+  margin: 0 auto;
+  height: 900px;
+  background: white;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+}

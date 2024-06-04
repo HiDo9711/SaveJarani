@@ -1,0 +1,14 @@
+.lawHome_div {
+  width: 80%;
+  margin: 0 auto;
+  height: 100%;
+  position: relative;
+  background: white;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+  text-align: center;
+}
+
+.lawHome_div h1 {
+  margin-bottom: 10px;
+}

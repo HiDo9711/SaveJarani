@@ -1,0 +1,31 @@
+.law_div {
+  width: 80%;
+  height: 100%;
+  background: white;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.law_bt1 {
+  padding: 5px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: white;
+  border: 1px solid #c4d1f9;
+  color: #3a67ea;
+}
+
+.law_bt1:hover {
+  cursor: pointer;
+}
+
+.news_bt {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
